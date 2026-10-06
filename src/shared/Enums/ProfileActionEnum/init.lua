@@ -1,0 +1,3 @@
+return {
+	UPDATE_COINS = "UPDATE_COINS",
+}

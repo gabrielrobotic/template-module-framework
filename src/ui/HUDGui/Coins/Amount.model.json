@@ -1,0 +1,13 @@
+{
+  "className": "TextLabel",
+  "properties": {
+    "Text": "0",
+    "TextSize": 28,
+    "Size": {
+      "UDim2": [
+        [1, 0],
+        [1, 0]
+      ]
+    }
+  }
+}
